@@ -21,9 +21,9 @@
          markdown-mode marshal move-text nlinum operate-on-number
          pcache projectile pythonic rainbow-delimiters rainbow-mode
          ripgrep rjsx-mode rust-mode s scss-mode smartparens smartrep
-         solarized-theme spinner super-save swiper transient undo-tree
-         volatile-highlights web-mode which-key with-editor yaml-mode
-         zenburn-theme zop-to-char))
+         solarized-theme spinner super-save swiper tide transient
+         typescript-mode undo-tree volatile-highlights web-mode
+         which-key with-editor yaml-mode zenburn-theme zop-to-char))
  '(pdf-view-midnight-colors '("#DCDCCC" . "#383838"))
  '(prelude-auto-save nil)
  '(prelude-guru nil)
