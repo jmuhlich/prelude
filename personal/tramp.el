@@ -1,3 +1,4 @@
+;; -*- lexical-binding: nil; -*-
 ;; Suggested speedups from
 ;; https://www.gnu.org/software/emacs/manual/html_node/tramp/Frequently-Asked-Questions.html
 

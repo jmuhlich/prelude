@@ -1,3 +1,4 @@
+;; -*- lexical-binding: nil; -*-
 ;;; Uncomment the modules you'd like to use and restart Prelude afterwards
 
 ;; Emacs IRC client
@@ -35,7 +36,7 @@
 ;; (require 'prelude-scala)
 ;; (require 'prelude-scheme)
 (require 'prelude-shell)
-(require 'prelude-scss)
+;; (require 'prelude-scss)
 (require 'prelude-ts)
 ;;(require 'prelude-web) ;; Emacs mode for web templates
 (require 'prelude-xml)

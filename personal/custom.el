@@ -1,3 +1,4 @@
+;; -*- lexical-binding: nil; -*-
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -8,6 +9,7 @@
  '(custom-safe-themes
    '("7f1d414afda803f3244c6fb4c2c64bea44dac040ed3731ec9d75275b9e831fe5"
      default))
+ '(global-display-line-numbers-mode t)
  '(package-selected-packages
    '(0x0 ace-window ag anzu beacon browse-kill-ring cargo
          company-anaconda company-lsp consult counsel crux csv-mode
@@ -40,4 +42,3 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
-(global-nlinum-mode 1)
