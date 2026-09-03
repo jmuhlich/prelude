@@ -3,6 +3,7 @@
 (setq prelude-minimalistic-ui t)
 (setq prelude-flyspell nil)
 (setq prelude-clean-whitespace-on-save nil)
+(setq prelude-welcome-screen nil)
 
 ;; Prevent the lexical-binding warnings from showing the *Warnings* buffer at launch.
 (with-eval-after-load 'warnings
